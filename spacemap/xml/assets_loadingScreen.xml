@@ -1,0 +1,17 @@
+<filecollection>
+<file debugView="false" hash="8a48cd4d8582b9231aa8c9b790ec567f" id="uiAssets.default" location="loadingscreen_swf" name="uiAssets.default" type="swf" version="1"/>
+<file debugView="false" hash="9a6d8aafe34463a8de4af6026b5aab3a" id="bg_loadingscreen_1920x1200" location="loadingscreen_img" name="bg_loadingscreen_1920x1200" type="jpg" version="1"/>
+<location id="loadingscreen_img" path="loadingscreen/img/"/>
+<file debugView="false" hash="331c0fdefaeb0f83e4996c4f5ebfdb74" id="loadingscreen - Kopie" location="spacemap" name="loadingscreen - Kopie" type="swf" version="1"/>
+<location id="loadingscreen_swf" path="loadingscreen/swf/"/>
+<file debugView="false" hash="a5ce1e3fab943778baa992abf0c940b7" id="bg_loadingscreen_1920x1200_do" location="loadingscreen_img" name="bg_loadingscreen_1920x1200_do" type="jpg" version="1"/>
+<location id="loadingscreen" path="loadingscreen/"/>
+<file debugView="false" hash="8107d4e67092d7d23806a8eb96a65dcd" id="loadingscreen" location="spacemap" name="loadingscreen" type="swf" version="1"/>
+<file debugView="false" hash="7557d460373f39a4ac52d130f064d55e" id="bgAssets.default" location="loadingscreen_swf" name="bgAssets.default" type="swf" version="1"/>
+<file debugView="false" hash="43ff4794e3b844532318e0a483c35b96" id="bg_loadingscreen_1920x1200.default" location="loadingscreen_img" name="bg_loadingscreen_1920x1200.default" type="jpg" version="1"/>
+<file debugView="false" hash="713402a716511357220eabf2bd1b174c" id="bgAssets2" location="loadingscreen_swf" name="bgAssets2" type="swf" version="1"/>
+<file debugView="false" hash="2d8a9be7993c43fc4dc54122deb03234" id="scrollbar.default" location="loadingscreen_swf" name="scrollbar.default" type="swf" version="1"/>
+<file debugView="false" hash="bd6f8b0cff62bf5eb08a76b874e2aebf" id="bgAssets" location="loadingscreen_swf" name="bgAssets" type="swf" version="1"/>
+<file debugView="false" hash="40a04994b0c760765ed1d0a5351d0f24" id="uiAssets" location="loadingscreen_swf" name="uiAssets" type="swf" version="1"/>
+<file debugView="false" hash="99420e93e7a1294db5f113fcd15be28d" id="uiAssets2" location="loadingscreen_swf" name="uiAssets2" type="swf" version="1"/>
+</filecollection>

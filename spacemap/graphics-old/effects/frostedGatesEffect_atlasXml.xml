@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<TextureAtlas imagePath="frostedGatesEffect.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.2.529 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="portalFrostedGateAnim01.png" x="0" y="0" width="257" height="242"/>
+	<SubTexture name="portalFrostedGateAnim02.png" x="257" y="0" width="257" height="242"/>
+	<SubTexture name="portalFrostedGateAnim03.png" x="514" y="0" width="257" height="245"/>
+	<SubTexture name="portalFrostedGateAnim04.png" x="0" y="245" width="258" height="244"/>
+	<SubTexture name="portalFrostedGateAnim05.png" x="258" y="245" width="257" height="243"/>
+	<SubTexture name="portalFrostedGateAnim06.png" x="515" y="245" width="257" height="242"/>
+	<SubTexture name="portalFrostedGateAnim07.png" x="0" y="489" width="257" height="242"/>
+	<SubTexture name="portalFrostedGateAnim08.png" x="257" y="489" width="257" height="244"/>
+	<SubTexture name="portalFrostedGateAnim09.png" x="514" y="489" width="257" height="242"/>
+	<SubTexture name="portalFrostedGateAnim10.png" x="0" y="733" width="257" height="242"/>
+	<SubTexture name="portalFrostedGateAnim11.png" x="257" y="733" width="257" height="244"/>
+	<SubTexture name="portalFrostedGateAnim12.png" x="514" y="733" width="257" height="244"/>
+	<SubTexture name="portalFrostedGateAnim13.png" x="0" y="977" width="257" height="243"/>
+	<SubTexture name="portalFrostedGateAnim14.png" x="257" y="977" width="258" height="242"/>
+	<SubTexture name="portalFrostedGateAnim15.png" x="515" y="977" width="257" height="242"/>
+	<SubTexture name="portalFrostedGateAnim16.png" x="0" y="1220" width="257" height="242"/>
+	<SubTexture name="portalFrostedGateAnim17.png" x="257" y="1220" width="257" height="243"/>
+	<SubTexture name="portalFrostedGateAnim18.png" x="514" y="1220" width="257" height="242"/>
+	<SubTexture name="portalFrostedGateAnim19.png" x="0" y="1463" width="257" height="242"/>
+	<SubTexture name="portalFrostedGateAnim20.png" x="257" y="1463" width="258" height="244"/>
+	<SubTexture name="portalFrostedGateAnim21.png" x="515" y="1463" width="257" height="242"/>
+</TextureAtlas>

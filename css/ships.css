@@ -1,0 +1,41 @@
+.ships {
+  display: inline-block;
+  margin-left: 45px;
+  margin-right: 10px;
+}
+
+.ship {
+  float: left;
+  padding: 15px;
+  background: rgba(51, 51, 51, 0.7);
+  margin: 3px 3px 3px;
+  min-width: 110px;
+  min-height: 110px;
+  text-align: center;
+  border: 3px solid transparent;
+  position: relative;
+  background-image: url(/do_img/global/items/bg-payment_100x100.jpg);
+}
+
+.ship img {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+.ship:hover {
+  cursor: pointer;
+  transition: all 0.3s;
+  border-color: white;
+  background-color: #2F8A08;
+}
+
+.ship.active {
+  
+  border-color: white;
+}
+
+.ship.active:hover {
+  border-color: #A30000;
+  background: red;
+}
